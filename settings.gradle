@@ -14,3 +14,8 @@ dependencyResolutionManagement {
 }
 rootProject.name = "CleanMultModuleDaggerComposableWeather"
 include ':app'
+include ':core:core-ds'
+//include ':feature:feature-current-weather-api'
+
+//project(':feature-current-weather-api').projectDir = new File('feature')
+//project(':feature-current-weather-impl').projectDir = new File('feature/weather')

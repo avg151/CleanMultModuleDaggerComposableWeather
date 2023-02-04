@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Built application files
 *.apk
 *.aar
@@ -83,3 +84,8 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+=======
+# Default ignored files
+/shelf/
+/workspace.xml
+>>>>>>> ds
